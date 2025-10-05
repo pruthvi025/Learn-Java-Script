@@ -27,9 +27,7 @@ console.log( ConvertToBoolean)
 // let name=" " after converting empty string to boolean it will give output false
 // let name"pruthvi" after converting any string to boolean it will give output true
 
-console.log("-----------------------------------")
 
-let p=null
 
 
 
