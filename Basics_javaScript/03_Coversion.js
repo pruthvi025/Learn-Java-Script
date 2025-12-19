@@ -6,6 +6,7 @@ let ConvertToNumber=Number(number) // Number is function wich is used to convert
 console.log( number)
 console.log(typeof number)//converted to srting 
 
+
 console.log("-----------------------------------")
 
 let num2="33abc"
